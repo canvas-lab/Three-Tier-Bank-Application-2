@@ -1,0 +1,55 @@
+2021/05/22 20:11:50 [INFO] GetAUserNameById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:11:51 [INFO] GetAUserNameById() - success. User ID '775810913' with first name 'j' and last name 'j' is retrieved.
+2021/05/22 20:11:56 [INFO] CreateAUser() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:11:56 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:11:56 [INFO] CreateAUser() - success. Data with user id '618830685', first name 'd' and last name 'e' is saved to disk.
+2021/05/22 20:12:00 [INFO] GetAUserNameById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:00 [INFO] GetAUserNameById() - success. User ID '618830685' with first name 'd' and last name 'e' is retrieved.
+2021/05/22 20:12:07 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:07 [INFO] GetAccountDetailsById() - success. Account ID '775810913' details is retrieved. It has $12.
+2021/05/22 20:12:13 [INFO] Deposit() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:13 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:12:13 [INFO] Deposit() - success. An amount of $8 has been depositted to ID '775810913'. Data is saved to disk.
+2021/05/22 20:12:16 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:16 [INFO] GetAccountDetailsById() - success. Account ID '775810913' details is retrieved. It has $20.
+2021/05/22 20:12:21 [INFO] Withdraw() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:21 [ERROR] Withdraw() - withdraw failed. cannot retrieve its access method.
+2021/05/22 20:12:21 [ERROR] Withdraw() - withdraw fails.
+2021/05/22 20:12:34 [INFO] CreateATransaction() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:34 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:12:34 [INFO] CreateATransaction() - success. A transaction from ID '775810913' to ID '618830685' with an amount of $5 is created and sent. Data is saved to disk.
+2021/05/22 20:12:37 [INFO] GetTransactionDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:37 [INFO] GetTransactionDetailsById() - success. Transaction details of ID '923615831' is retrieved. It has details of a transaction from ID '775810913' to ID '618830685' with an amount of $5.
+2021/05/22 20:12:52 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:52 [INFO] GetAccountDetailsById() - success. Account ID '618830685' details is retrieved. It has $5.
+2021/05/22 20:12:55 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:12:55 [INFO] GetAccountDetailsById() - success. Account ID '775810913' details is retrieved. It has $15.
+2021/05/22 20:13:01 [INFO] Deposit() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:01 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:13:01 [INFO] Deposit() - success. An amount of $2 has been depositted to ID '775810913'. Data is saved to disk.
+2021/05/22 20:13:08 [INFO] Deposit() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:08 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:13:08 [INFO] Deposit() - success. An amount of $2 has been depositted to ID '775810913'. Data is saved to disk.
+2021/05/22 20:13:10 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:10 [INFO] GetAccountDetailsById() - success. Account ID '775810913' details is retrieved. It has $19.
+2021/05/22 20:13:11 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:11 [INFO] GetAccountDetailsById() - success. Account ID '775810913' details is retrieved. It has $19.
+2021/05/22 20:13:16 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:16 [INFO] GetAccountDetailsById() - success. Account ID '618830685' details is retrieved. It has $5.
+2021/05/22 20:13:21 [INFO] Deposit() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:21 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/05/22 20:13:21 [INFO] Deposit() - success. An amount of $2 has been depositted to ID '618830685'. Data is saved to disk.
+2021/05/22 20:13:22 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/05/22 20:13:22 [INFO] GetAccountDetailsById() - success. Account ID '618830685' details is retrieved. It has $7.
+2021/06/02 15:01:01 [INFO] CreateAUser() - all user inputs is valid, retrieving the rest request data.
+2021/06/02 15:01:01 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/06/02 15:01:01 [INFO] CreateAUser() - success. Data with user id '933181864', first name 'aa' and last name 'aa' is saved to disk.
+2021/06/02 15:01:06 [INFO] GetAUserNameById() - all user inputs is valid, retrieving the rest request data.
+2021/06/02 15:01:06 [INFO] GetAUserNameById() - success. User ID '933181864' with first name 'aa' and last name 'aa' is retrieved.
+2021/06/02 15:01:13 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/06/02 15:01:13 [INFO] GetAccountDetailsById() - success. Account ID '933181864' details is retrieved. It has $0.
+2021/06/02 15:01:18 [INFO] Deposit() - all user inputs is valid, retrieving the rest request data.
+2021/06/02 15:01:18 [INFO] SaveToDisk() - succesfully called SaveToDisk() method of Data-tier.
+2021/06/02 15:01:18 [INFO] Deposit() - success. An amount of $10 has been depositted to ID '933181864'. Data is saved to disk.
+2021/06/02 15:01:20 [INFO] GetAccountDetailsById() - all user inputs is valid, retrieving the rest request data.
+2021/06/02 15:01:20 [INFO] GetAccountDetailsById() - success. Account ID '933181864' details is retrieved. It has $10.
